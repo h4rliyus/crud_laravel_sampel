@@ -17,6 +17,9 @@ Perubahan data akan langsung diperbarui pada database.
 Menghapus data mahasiswa dari database.
 Dilengkapi dengan konfirmasi penghapusan menggunakan JavaScript untuk menghindari kesalahan pengguna.
 
+<img width="928" height="223" alt="image" src="https://github.com/user-attachments/assets/edeb3f41-781d-41a3-a06a-ad50cc2772b4" />
+
+
 # Teknologi yang Digunakan
 PHP 8.2	Bahasa pemrograman utama
 Laravel 12	Framework PHP berbasis MVC
